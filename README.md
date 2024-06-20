@@ -39,8 +39,8 @@ As this was a group-project, I don't take credit for all of the code. My main to
 The other authors are:
 - Hannes Neumann
 - Leonard Küch ([@leonardkuech](https://github.com/leonardkuech))
-- Lukas Greiner ([paukaise047](https://github.com/paukaise047))
-- Paul Kaiser
+- Lukas Greiner
+- Paul Kaiser ([paukaise047](https://github.com/paukaise047))
 - Valentin Stoll
 
 ## License
